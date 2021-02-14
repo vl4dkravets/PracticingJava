@@ -1,4 +1,4 @@
-# /simpleRobot
+# simpleRobot
 
   - simulates a path a robot passes;
   - simple GUI;
